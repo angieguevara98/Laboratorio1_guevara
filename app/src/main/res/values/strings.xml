@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Laboratorio01_guevara</string>
+    <string-array name="spinner2">
+        <item> angie.guevara@tecsup.edu.pe</item>
+    </string-array>
+
+    <string-array name="spinner5">
+        <item> Fri,Feb 10 2014</item>
+    </string-array>
+
+    <string-array name="spinner6">
+        <item> 5:30 </item>
+    </string-array>
+
+    <string-array name="spinner7">
+        <item> Fri,Feb 10 2014 </item>
+    </string-array>
+
+    <string-array name="spinner8">
+        <item> 4:30 </item>
+    </string-array>
+    <string-array name="spinner9">
+        <item> Pacific Standart Time GMT-8 </item>
+    </string-array>
+
+
+</resources>
